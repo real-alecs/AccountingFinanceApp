@@ -92,6 +92,11 @@ Accounting Finance Management
   Looks up a localized string similar to sysad.
 </summary>
 </member>
+<member name="P:Accounting_Finance_Management.My.Resources.Resources.User_Delete">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:Accounting_Finance_Management.My.Resources.Resources.User_Login">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
