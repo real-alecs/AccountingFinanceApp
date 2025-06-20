@@ -52,7 +52,17 @@ Accounting Finance Management
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:Accounting_Finance_Management.My.Resources.Resources.Command_Undo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:Accounting_Finance_Management.My.Resources.Resources.Data_refresh_WF">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Accounting_Finance_Management.My.Resources.Resources.Data_Synchronize">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
