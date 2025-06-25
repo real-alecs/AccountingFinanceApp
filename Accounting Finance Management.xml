@@ -57,6 +57,16 @@ Accounting Finance Management
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:Accounting_Finance_Management.My.Resources.Resources.Data_previous_WF">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Accounting_Finance_Management.My.Resources.Resources.Data_Refresh">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:Accounting_Finance_Management.My.Resources.Resources.Data_refresh_WF">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
@@ -70,6 +80,21 @@ Accounting Finance Management
 <member name="P:Accounting_Finance_Management.My.Resources.Resources.Databasename">
 <summary>
   Looks up a localized string similar to databasename.
+</summary>
+</member>
+<member name="P:Accounting_Finance_Management.My.Resources.Resources.Document_Add_01">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Accounting_Finance_Management.My.Resources.Resources.DocumentSync_WF">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Accounting_Finance_Management.My.Resources.Resources.File_Sync_WF">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
 <member name="P:Accounting_Finance_Management.My.Resources.Resources.Logo">
