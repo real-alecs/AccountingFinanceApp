@@ -102,6 +102,21 @@ Accounting Finance Management
   Looks up a localized string similar to Province.
 </summary>
 </member>
+<member name="P:Accounting_Finance_Management.My.Resources.Resources.Maximize4_WF">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Accounting_Finance_Management.My.Resources.Resources.Minimize_WF">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Accounting_Finance_Management.My.Resources.Resources.Minus">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:Accounting_Finance_Management.My.Resources.Resources.Recycle_Bin">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
