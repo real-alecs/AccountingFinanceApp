@@ -22,6 +22,11 @@ Accounting Finance Management
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="P:Accounting_Finance_Management.My.Resources.Resources.Accounting_02_WF">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:Accounting_Finance_Management.My.Resources.Resources.Add_row">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
@@ -105,6 +110,11 @@ Accounting Finance Management
 <member name="P:Accounting_Finance_Management.My.Resources.Resources.Logo">
 <summary>
   Looks up a localized string similar to Province.
+</summary>
+</member>
+<member name="P:Accounting_Finance_Management.My.Resources.Resources.Logout">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
 <member name="P:Accounting_Finance_Management.My.Resources.Resources.Maximize4_WF">
